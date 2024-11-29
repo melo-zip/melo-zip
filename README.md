@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="https://github.com/user-attachments/assets/a420003c-308f-4c73-9c59-9d9cbe9c51f5" align="left"></img>
+<samp>
+ <br>
+ <br>
+ <br>
+about me: <br>
+    &ndash; he/him, brazilian, pt-br + eng <br>
+    &ndash; computer science student <br> <br>
+langs & frameworks: <br>
+> java, javascript, typescript, nodejs <br> <br>
 
-<!--
-**melo-zip/melo-zip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+open-source contributions: <br>
+[octopost-frontend](https://github.com/devhatt/octopost): front-end social media SSO <br>
+[octopost-backend](https://github.com/devhatt/octopost-backend): back-end social media SSO<br>
+[petdex-backend](https://github.com/devhatt/pet-dex-backend): pet pokedex<br> <br>
+os: Ubuntu 24.04.1
+</samp>
